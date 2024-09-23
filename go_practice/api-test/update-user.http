@@ -1,0 +1,10 @@
+PUT http://localhost:8080/users/2
+Content-Type: application/json
+
+{
+    "name":"zzzzzz",
+    "email":"iii@iibi.iiiaaaa",
+    "height":175,
+    "weight":65,
+    "group" : 2
+}
